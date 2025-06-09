@@ -4,6 +4,7 @@ fastparquet
 graphviz==0.20.3
 ipywidgets
 ipykernel==6.29.5
+isodate==0.7.2
 Jinja2
 jupyter
 jupyter-summarytools
