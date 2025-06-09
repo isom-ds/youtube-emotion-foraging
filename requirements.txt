@@ -1,3 +1,4 @@
+aiohttp
 chromadb==1.0.8
 diagrams==0.24.4
 fastparquet
