@@ -95,6 +95,7 @@ B. V. Kok-Shun, J. Chan, G. Peko, and D. Sundaram, "Affective Foraging: Knowledg
   booktitle = {Proceedings of the 59th {Hawaii} {International} {Conference} on {System} {Sciences}},
   author    = {Kok-Shun, Brice Valentin and Chan, Johnny and Peko, Gabrielle and Sundaram, David},
   year      = {2026},
+  url      = {https://hdl.handle.net/10125/111706},
 }
 ```
 
