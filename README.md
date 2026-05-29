@@ -3,7 +3,7 @@
 
 ## Abstract
 
-Online discourse exhibits structured patterns in how users navigate and consume emotional content, yet existing Information Foraging Theory does not account for affective motivations. This repository implements a computational framework that constructs a Neo4j knowledge graph from 5,874 YouTube transcripts and 866,673 comments on US Tariff discourse (2025), then uses it to surface patterns of affective foraging — identifying how users cluster around emotionally charged topics. The work extends Information Foraging Theory by introducing the concept of Affective Foraging, which integrates Digital Emotion Regulation with rational information-seeking to model emotionally driven online behaviour.
+Online discourse exhibits structured patterns in how users navigate and consume emotional content, yet existing Information Foraging Theory does not account for affective motivations. This repository implements a computational framework that constructs a Neo4j knowledge graph from 5,874 YouTube transcripts and 866,673 comments on US Tariff discourse (2025), then uses it to surface patterns of affective foraging — identifying how users cluster around emotionally charged topics. The work extends Information Foraging Theory by introducing the concept of Affective Foraging, which integrates Digital Emotion Regulation with rational information-seeking to model emotionally driven online behaviour [Online]. Available: https://hdl.handle.net/10125/111706.
 
 ## Research Context
 
@@ -84,7 +84,7 @@ Run notebooks in ascending numerical order:
 
 ## References
 
-B. V. Kok-Shun, J. Chan, G. Peko, and D. Sundaram, "Affective Foraging: Knowledge Graph-Assisted Analysis of Emotion and Topic Information Patches in Online Discourse on the 2025 US Tariffs," in *Proceedings of the 59th Hawaii International Conference on System Sciences*, 2026.
+B. V. Kok-Shun, J. Chan, G. Peko, and D. Sundaram, "Affective Foraging: Knowledge Graph-Assisted Analysis of Emotion and Topic Information Patches in Online Discourse on the 2025 US Tariffs," in *Proceedings of the 59th Hawaii International Conference on System Sciences*, 2026 [Online]. Available: https://hdl.handle.net/10125/111706.
 
 <details>
 <summary>BibTeX</summary>
